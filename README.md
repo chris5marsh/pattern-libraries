@@ -19,12 +19,15 @@ Here is a list of Pattern Libraries from around the web. If there's a good one t
 * [Code for America](http://style.codeforamerica.org/)
 * [Salesforce](http://sfdc-styleguide.herokuapp.com/)
 * [Mozilla](https://www.mozilla.org/en-US/styleguide/websites/sandstone/)
+* [Sass](http://sass-lang.com/styleguide/)
+* [eBay](https://ebay.github.io/skin/#)
 
 ##Publishing
 * [Harvard Law Review](http://harvardlawreview.org/style-guide/)
 * [BBC](http://www.bbc.co.uk/gel)
 * [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
 * [A List Apart](http://patterns.alistapart.com/)
+* [The Times | The Sunday Times](http://www.thetimes.co.uk/styleguide/)
 
 ##Other
 * [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
